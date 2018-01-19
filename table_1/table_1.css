@@ -1,0 +1,11 @@
+caption
+{
+text-align: left;
+font-style: italic;
+font-size: smaller;color: #33dd33;
+}
+
+td, th
+{
+ border: 1px solid #99ccff; 
+}
